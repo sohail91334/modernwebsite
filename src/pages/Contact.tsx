@@ -14,7 +14,7 @@ function Reveal({ children, className = '', delay = 0 }: { children: React.React
 }
 
 const contactInfo = [
-  { icon: Mail, label: 'Email us', value: 'hello@modernweb.agency', href: 'mailto:hello@modernweb.agency' },
+  { icon: Mail, label: 'Email us', value: 'hello@modernweb.agency', href: 'mailto:info@modernweb.agency' },
   { icon: Phone, label: 'Call us', value: '+92 (342) 534-4158', href: 'tel:+923425344158' },
   { icon: MapPin, label: 'Visit us', value: 'Stockholm, Sweden', href: '#' },
   { icon: Clock, label: 'Office hours', value: 'Mon–Fri, 9:00–18:00 CET', href: '#' },
